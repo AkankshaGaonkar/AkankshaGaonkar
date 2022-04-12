@@ -18,8 +18,8 @@
 
 ## My Activity
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=AkankshaGaonkar&theme=blue-green" alt="my github stats" width="390" height="165" />&nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkankshaGaonkar&theme=blue-green" alt="streak" width="390" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=AkankshaGaonkar&theme=blue-green" alt="my github stats" width="400" height="165" />&nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkankshaGaonkar&theme=blue-green" alt="streak" width="400" height="165">
 </p>
 <!-- 
 ### Info
