@@ -9,7 +9,7 @@
 <img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="C:\Users\ashug\OneDrive\Desktop\download (1).png" alt="postman" width="40" height="40"/>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.qualys.com%2Fwp-content%2Fuploads%2F2020%2F10%2Fpostman.jpg&imgrefurl=https%3A%2F%2Fblog.qualys.com%2Fproduct-tech%2F2019%2F10%2F07%2Fenhanced-api-scanning-with-postman-support-in-qualys-was&tbnid=E7WH6-NZxYyziM&vet=12ahUKEwjMorHM47v3AhX3ynMBHUe2BIgQMygCegUIARDEAQ..i&docid=5fm6vw-7Vr8HQM&w=1708&h=1044&q=postman%20api%20images&ved=2ahUKEwjMorHM47v3AhX3ynMBHUe2BIgQMygCegUIARDEAQ" alt="postman" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFLef3ojOQLTkRqk-D3QclWG1TInu-oYiEMQ&usqp=CAU" alt="flask" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="html5" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="css3" height="40"/> 
