@@ -1,5 +1,5 @@
 <h1 align="center"> Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> there</h1>
-<h1 align="center"> Hi<img src="https://github.com/AkankshaGaonkar/AkankshaGaonkar/blob/main/output-onlinegiftools.gif" width="300px"> there</h1>
+<h1 align="center"><img src="https://github.com/AkankshaGaonkar/AkankshaGaonkar/blob/main/output-onlinegiftools.gif" width="300px" height="300px"></h1>
 <p>
 <!-- <img src="https://github.com/prasad145/prasad145/blob/main/Banner.jpeg" width="100%" height="130" border="10"/> -->
   
